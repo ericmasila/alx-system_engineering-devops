@@ -1,3 +1,2 @@
 #!/bin/bash
 current_working_directory = $(pwd)
-echo "Current working directory: $current_working_directory"
